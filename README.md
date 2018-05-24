@@ -1,3 +1,6 @@
+## [Motivation behind fork]
+This fork uses the https://github.com/DrYak/louvain-community implementation of the louvain community detection method.
+
 PhenoGraph for Python3
 ======================
 
